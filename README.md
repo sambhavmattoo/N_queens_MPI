@@ -38,3 +38,5 @@ For running on the PACE cluster, do:
 ```sh
 qsub -v p=<num_procs>,n=<number_of_queens>,k=<k>,e=<e> pbs_script.pbs
 ```
+
+To see how my code functions, look at my report and the detailed comments in solver.cpp
